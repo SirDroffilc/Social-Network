@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "*.tcc": "cpp",
+    "unordered_map": "cpp",
+    "ctime": "cpp",
+    "chrono": "cpp",
+    "ostream": "cpp"
+  }
+}
